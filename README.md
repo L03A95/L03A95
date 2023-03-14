@@ -15,8 +15,7 @@
 
 <h2>Contact with me!</h2>
 <div>
-    <img src="https://cdn-icons-png.flaticon.com/512/73/73552.png" height="20" width="20"></img> <strong >+54 9 11 3767 6146</strong>
-    <hr></hr>
+    <a href="https://wa.me/5491137676146"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Whatsapp_logo_svg.png/600px-Whatsapp_logo_svg.png" height="20" width="20"></img></a>
     <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwQhRxtmPKCMsSNRQhzNkMMhCZDrMCtvCxSDsMxhgHjgckNXRDQXppVKLxLLWHBxxJGwXq"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg" height="20" width="20"></img></a>
     <a href="https://www.linkedin.com/in/liam-perez-lupia-33a189257/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="20" width="20"></img></a
     <img></img>
