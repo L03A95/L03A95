@@ -12,3 +12,12 @@
     <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg" height="40" width="52" alt="git logo"  />
     <img src="https://www.svgrepo.com/show/35001/github.svg" height="40" width="52" alt="github logo"  />
 </div>
+
+<h2>Contact with me!</h2>
+<div>
+    <img src="https://w7.pngwing.com/pngs/415/155/png-transparent-telephone-computer-icons-phone-icon-template-miscellaneous-service-computer-thumbnail.png" heigth="40px"></img>
+    <img></img>
+    <img></img>
+    <img></img>
+    <a></a>
+</div>
