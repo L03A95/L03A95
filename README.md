@@ -15,7 +15,7 @@
 
 <h2>Contact with me!</h2>
 <div>
-    <img src="https://w7.pngwing.com/pngs/415/155/png-transparent-telephone-computer-icons-phone-icon-template-miscellaneous-service-computer-thumbnail.png" height="40" width="52"></img>
+    <img src="https://cdn-icons-png.flaticon.com/512/73/73552.png" height="40" width="52"></img>
     <img></img>
     <img></img>
     <img></img>
