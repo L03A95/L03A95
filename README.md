@@ -15,10 +15,11 @@
 
 <h2>Contact with me!</h2>
 <div>
-    <a href="https://wa.me/5491137676146"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Whatsapp_logo_svg.png/600px-Whatsapp_logo_svg.png" height="30" width="30"></img></a>
-    <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwQhRxtmPKCMsSNRQhzNkMMhCZDrMCtvCxSDsMxhgHjgckNXRDQXppVKLxLLWHBxxJGwXq"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg" height="30" width="30"></img></a>
-    <a href="https://www.linkedin.com/in/liam-perez-lupia-33a189257/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30"></img></a
-    <img></img>
-    <a></a>
+    <a href="https://wa.me/5491137676146"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Whatsapp_logo_svg.png/600px-Whatsapp_logo_svg.png"             height="30" width="30"></img></a>
+    <div height="15" width="15"></div>
+    <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwQhRxtmPKCMsSNRQhzNkMMhCZDrMCtvCxSDsMxhgHjgckNXRDQXppVKLxLLWHBxxJGwXq"><img                             src="https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg" height="30" width="30"></img></a>
+    <div height="15" width="15"></div>
+    <a href="https://www.linkedin.com/in/liam-perez-lupia-33a189257/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30"></img></a>
+    <div height="15" width="15"></div>
 </div>
 
