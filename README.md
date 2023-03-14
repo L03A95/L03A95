@@ -15,15 +15,10 @@
 
 <h2>Contact with me!</h2>
 <div>
-    <img src="https://cdn-icons-png.flaticon.com/512/73/73552.png" height="40" width="40"></img> <strong class="number">+54 9 11 3767 6146</strong>
+    <img src="https://cdn-icons-png.flaticon.com/512/73/73552.png" height="20" width="20"></img> <strong >+54 9 11 3767 6146</strong>
     <img></img>
     <img></img>
     <img></img>
     <a></a>
 </div>
 
-<style> 
-    .number {
-    margin-top: -10px;
-    }
-</style>
