@@ -1,3 +1,5 @@
+<h1>Hello world, im Liam!<h1>
+    <p>Hi 👋, i'm Liam, a 18yo Argentinian full-stack software developer 🧑‍💻 .I started to be interested in programming at a very young age, but the first time I really wrote code was when I was 15 years old, now I study continuously and try to keep up with all the technologies. My dream job is one that i can learn and build better skills 😄, i love being constantly learning diferent technologies🤓.</p>
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
