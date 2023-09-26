@@ -1,6 +1,6 @@
 <h1 align="center">Hello world, im Liam!<h1>
 <h2 align="center">Full Stack Developer</h2>
-    <p>Hi , i'm Liam, a 18yo Argentinian full-stack software developer .I started to be interested in programming at a very young age, but the first time I really wrote code was when I was 15 years old, now I study continuously and try to keep up with all the technologies. My dream job is one that i can learn and build better skills, i love being constantly learning diferent technologies.</p>
+    <p>A passionate Software Developer with a focus on Back-end development, but also agile and experienced with Front-end. I love to put my skills to the test all the time and I love learning how to be more efficient all the time.</p>
 <h3 align="center">My skills!</h2>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
