@@ -1,5 +1,4 @@
-<h1 align="center">Hello world, im Liam!<h1>
-<h2 align="center">Full Stack Developer</h2>
+<h1 align="center">Hello world, im Liam!<h1><h2 align="center">Full Stack Developer</h2>
     <p>A passionate Software Developer with a focus on Back-end development, but also agile and experienced with Front-end. I love to put my skills to the test all the time and I love learning how to be more efficient all the time.</p>
 <h3 align="center">My skills!</h2>
 <div align="center">
