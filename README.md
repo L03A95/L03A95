@@ -20,6 +20,6 @@
 <div align="center">
   
     <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwQhRxtmPKCMsSNRQhzNkMMhCZDrMCtvCxSDsMxhgHjgckNXRDQXppVKLxLLWHBxxJGwXq"><img                             src="https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg" height="30" width="30" margin="7.5"></img></a>
-    <a href="https://www.linkedin.com/in/liam-perez-lupia-33a189257/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30"                 margin="7.5"></img></a>
+    <a href="https://www.linkedin.com/in/liam-perez-lupia-33a189257/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30" margin="7.5"></img></a>
 </div>
 
